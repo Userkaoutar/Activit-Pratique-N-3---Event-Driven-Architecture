@@ -181,6 +181,7 @@ public class AccountDebitedEvent extends BaseEvent<String>{
 
 
 - Test
+  
 ![image](https://github.com/Userkaoutar/Activit-Pratique-N-3---Event-Driven-Architecture/assets/101696114/5c68e4b5-a15c-4dff-bb34-f67af159957e)
 
 
